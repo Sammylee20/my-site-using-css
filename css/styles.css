@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Playwrite IT Moderna", cursive;
+}
+
+.text-container {
+  position: absolute;
+  top: 35%;
+  left: 45%;
+}
+
+.mountain {
+  width: 40%;
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+  font-size: 2.5rem;
+  color: #66bfbf;
+}
+
+.description {
+  margin: 10 auto 0;
+}
+
+h2 {
+  color: #66bfbf;
+  font-weight: normal;
+  font-size: 1.8rem;
+}
+
+h3 {
+  color: #11999e;
+}
+
+.top {
+  background-color: #e4f9f5;
+  padding-top: 480px;
+  position: relative;
+}
+
+.middle-container {
+  padding: 50px 0 50px 0;
+}
+
+.skills {
+  padding: 50px 0 50px 0;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 3% 0 3% 0;
+  line-height: 2;
+  margin-top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 400px;
+}
+
+.profile-pic {
+  width: 10%;
+}
+
+.skills {
+  padding: 50px 0 50px 0;
+}
+
+.skill-row {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row img {
+  width: 25%;
+}
+
+.footer-link {
+  margin-left: 10px;
+  color: #11999e;
+  text-decoration: none;
+}
+
+.tag {
+  color: #eaf6f6;
+}
+
+hr {
+  margin: auto;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 8px;
+  color: #eaf6f6;
+}
+
+.contact-me {
+  padding: 50px 0 50px 0;
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+
+.profile {
+  margin-bottom: 40px;
+}
+
+.btn {
+  display: block;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  color: #11999e;
+  text-decoration: none;
+}
